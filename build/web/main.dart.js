@@ -96229,7 +96229,7 @@ A.a1_.prototype={
 aV(){this.bd()
 $.ae.p2$.push(new A.ayg(this))},
 R(a){var s=null
-return A.qW(A.y8(s,!0,s,s,s,s,A.bz("Scan QR code",s,s,s,s,s,s,s)),s,A.f8(B.bj,A.a([new A.Bd(this.d,new A.aye(this),s),A.ie(A.fv(s,s,s,new A.TL(s),B.alr),s,s),A.ku(300,A.bz("Point QR code to into the bow",s,s,s,s,A.fB(s,s,B.l,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,s,100,s,s,s)],t.p),B.M,B.aZ,s),s,s)},
+return A.qW(A.y8(s,!0,s,s,s,s,A.bz("Scan QR code",s,s,s,s,s,s,s)),s,A.f8(B.bj,A.a([new A.Bd(this.d,new A.aye(this),s),A.ie(A.fv(s,s,s,new A.TL(s),B.alr),s,s),A.ku(400,A.bz("Point QR code to into the bow",s,s,s,s,A.fB(s,s,B.l,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,s,100,s,s,s)],t.p),B.M,B.aZ,s),s,s)},
 aa1(a){var s,r,q,p=this,o=a.b,n=a.a
 for(s=n.length,r=0;r<s;++r){q=n[r].z
 q.toString

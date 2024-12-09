@@ -49,14 +49,9 @@ class _QrScannerScreenState extends State<QrScannerScreen> {
             ),
           ),
           Positioned(
-            bottom: 300,
+            bottom: 400,
             left: 100,
-            child: Text(
-              'Point QR code to into the bow',
-              style: TextStyle(
-                color: Colors.white,
-              ),
-            ),
+            child: Text('Point QR code to into the bow',style: TextStyle(color: Colors.white),),
           )
         ],
       ),
